@@ -1,0 +1,235 @@
+---
+name: Solar Infrastructure & Energy
+colors:
+  surface: '#edfeef'
+  surface-dim: '#cdded0'
+  surface-bright: '#edfeef'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#e7f8e9'
+  surface-container: '#e1f2e4'
+  surface-container-high: '#dcecde'
+  surface-container-highest: '#d6e7d8'
+  on-surface: '#111e16'
+  on-surface-variant: '#404941'
+  inverse-surface: '#25342a'
+  inverse-on-surface: '#e4f5e6'
+  outline: '#717970'
+  outline-variant: '#c0c9be'
+  surface-tint: '#2e6a41'
+  primary: '#003b1b'
+  on-primary: '#ffffff'
+  primary-container: '#14532d'
+  on-primary-container: '#87c695'
+  inverse-primary: '#96d5a3'
+  secondary: '#006e29'
+  on-secondary: '#ffffff'
+  secondary-container: '#82fc92'
+  on-secondary-container: '#00752c'
+  tertiary: '#735c00'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#cea700'
+  on-tertiary-container: '#4e3e00'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#b1f2be'
+  primary-fixed-dim: '#96d5a3'
+  on-primary-fixed: '#00210d'
+  on-primary-fixed-variant: '#12512c'
+  secondary-fixed: '#82fc92'
+  secondary-fixed-dim: '#66de79'
+  on-secondary-fixed: '#002107'
+  on-secondary-fixed-variant: '#00531d'
+  tertiary-fixed: '#ffe083'
+  tertiary-fixed-dim: '#eec200'
+  on-tertiary-fixed: '#231b00'
+  on-tertiary-fixed-variant: '#574500'
+  background: '#edfeef'
+  on-background: '#111e16'
+  surface-variant: '#d6e7d8'
+typography:
+  display-hero:
+    fontFamily: Manrope
+    fontSize: 56px
+    fontWeight: '800'
+    lineHeight: 64px
+    letterSpacing: -0.03em
+  display-hero-mobile:
+    fontFamily: Manrope
+    fontSize: 36px
+    fontWeight: '800'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-xl:
+    fontFamily: Manrope
+    fontSize: 40px
+    fontWeight: '700'
+    lineHeight: 48px
+    letterSpacing: -0.025em
+  headline-xl-mobile:
+    fontFamily: Manrope
+    fontSize: 28px
+    fontWeight: '700'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Manrope
+    fontSize: 32px
+    fontWeight: '700'
+    lineHeight: 40px
+    letterSpacing: -0.02em
+  headline-md:
+    fontFamily: Manrope
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.015em
+  headline-sm:
+    fontFamily: Manrope
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  body-xl:
+    fontFamily: Inter
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  body-lg:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+  label-lg:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+  caption:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '500'
+    lineHeight: 14px
+    letterSpacing: 0.04em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 3rem
+  margin-mobile: 1.25rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system expresses a forward-looking, high-reliability infrastructure aesthetic rooted in ecological stewardship and engineered longevity. It blends enterprise-grade reliability with contemporary architectural elegance. 
+
+### Design Philosophy
+- **Aesthetic Movement:** Modern Clean Architecture with subtle Indian ecological elegance—leveraging profound botanical forest greens, crystalline sunlight accents, and crisp technical structure.
+- **Tone & Mood:** Authoritative, high-conviction, serene, and engineered. It balances industrial strength (infrastructure, commercial rooftops, utility-scale deployments) with residential approachable luxury.
+- **Visual Discipline:** Expansive whitespace, intentional asymmetry, razor-sharp typographic scale, and structural wirelines that communicate precision engineering. High-converting interaction touchpoints deploy high-visibility sun-gold and communicative green signals.
+
+## Colors
+
+The color system establishes a balanced harmony between architectural strength, natural energy generation, and utility trust.
+
+### Palette Architecture
+- **Primary Deep Forest Green (`#14532D`):** Anchors high-priority headers, dominant corporate surfaces, primary button containers, and critical structural anchors. Represents permanence and enterprise capacity.
+- **Secondary Vibrant Green (`#22A447`):** Represents kinetic green power, generation metrics, affirmative validation states, and high-conversion direct actions (such as instantaneous WhatsApp and advisory dispatch).
+- **Tertiary Solar Gold (`#FACC15`):** Reserved for solar irradiance cues, ROI highlights, premium milestone tags, and critical transactional callout buttons.
+- **Surface / Light Green Tint (`#F0FDF4`):** Soft environmental canvas layer for analytical cards, savings calculators, and low-contrast backdrops.
+- **Dark Slate Text (`#17251C`):** High-contrast base neutral for all foundational typography and primary interfaces, softer than pure black.
+- **Subdued Slate Text (`#64748B`):** Secondary informational copy, metadata, metric subtitles, and structural labels.
+- **Border Neutral (`#E2E8F0`):** Fine architectural hairline delineation for cards, data tables, and spatial separations.
+- **Pure White (`#FFFFFF`):** Base canvas and elevated card surfaces.
+
+## Typography
+
+The type system pairs **Manrope** for authoritative, geometric display surfaces with **Inter** for ultra-clean readability in data telemetry, financial solar calculations, and technical schematics.
+
+- **Headlines (Manrope):** Geometric and contemporary, with tightly kerned tracking on large scales to give infrastructure claims confidence and impact.
+- **Body & Data (Inter):** Highly legible across varied viewports, providing tabular clarity in generation metrics, kilowatt-hour savings calculations, and contract summaries.
+- **Numerical Metric Displays:** When displaying ROI numbers, generation stats (kW, MW, units), apply semi-bold to bold weights with tabular lining figures.
+
+## Layout & Spacing
+
+A 12-column responsive fluid grid governs desktop and tablet presentations, consolidating into a single-column structured view on mobile devices.
+
+### Grid & Form Factors
+- **Desktop (1024px+):** 12-column layout, 24px gutters, generous section margins (min 48px), max-width bounded at 1280px for standard views and 1440px for broad dashboard layouts.
+- **Tablet (768px - 1023px):** 8-column layout, 20px gutters, 32px lateral margins.
+- **Mobile (Up to 767px):** 4-column layout, 16px gutters, 20px margins.
+
+### Spacing Principles
+- **Atmospheric Density:** Clean, breathable vertical cadences. Content sections use wide macro-spacing (`space-xl` and higher) to communicate scale and calm expertise.
+- **Component Compactness:** Micro-spacing inside interactive cards and calculation modules remains compact and disciplined using `space-xs`, `space-sm`, and `space-md` to preserve high data density.
+
+## Elevation & Depth
+
+This design system shuns heavy, artificial shadows in favor of a crisp architectural approach utilizing low-contrast hairline outlines, tonal depth, and delicate, sun-diffused ambient glows.
+
+### Elevation Hierarchy
+- **Level 0 (Flat Base):** Pure White (`#FFFFFF`) or Solar Mist Tint (`#F0FDF4`). No shadow, framed cleanly by hairline borders (`1px solid #E2E8F0`).
+- **Level 1 (Structural Cards / Inputs):** Surfaces sit on white base canvas with an ultra-soft ambient shadow: `0 1px 3px rgba(20, 83, 45, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02)`.
+- **Level 2 (Interactive Floating Elements / Popovers):** Used for savings calculation flyouts, solar project previews, and navigation menus: `0 10px 25px -5px rgba(20, 83, 45, 0.08), 0 8px 10px -6px rgba(20, 83, 45, 0.03)`.
+- **Level 3 (Action Sticky Bars / Modals):** High-impact booking overlays: `0 20px 30px -10px rgba(23, 37, 28, 0.12)`.
+- **Energy Glow (Accents):** Selected solar savings cards and conversion CTAs may project a subtle 12px blur halo tinted with `#FACC15` (15% opacity) or `#22A447` (20% opacity) on active states.
+
+## Shapes
+
+The design system employs a **Rounded** shape language (`roundedness: 2`), reflecting high-precision solar module fabrication—precise, geometric, but humanized with curved corners.
+
+- **Base Radius (0.5rem / 8px):** Applied to buttons, input fields, badges, and smaller data cards.
+- **Large Radius (1rem / 16px):** Applied to primary content panels, project case study cards, and calculator containers.
+- **Extra Large Radius (1.5rem / 24px):** Applied to full-width feature hero banners and major modal containers.
+- **Full Radius (Pill):** Reserved exclusively for status indicators, micro tags, and specialized floating conversion pills (e.g., "Request Rooftop Audit").
+
+## Components
+
+### Buttons & CTAs
+- **Primary Corporate CTA:** Solid Forest Green (`#14532D`) background, pure white text, bold `Inter` label. On hover, smooth transition to deep emerald tint with `0 4px 12px rgba(20, 83, 45, 0.2)`.
+- **Direct Conversion / WhatsApp CTA:** Vibrant Green (`#22A447`) background with pure white typography and integrated WhatsApp icon. On hover, brightness increase and subtle upward translate (-1px).
+- **Solar Highlighting CTA:** Solar Gold (`#FACC15`) fill with Dark Slate (`#17251C`) text. Deployed in calculation outcomes, financial savings triggers, and key quote requests.
+- **Ghost / Outline:** Transparent background, `1px solid #14532D` or `#E2E8F0`, with `#14532D` text.
+
+### Cards & Project Showcases
+- **Standard Module Card:** Pure White background, `1px solid #E2E8F0` hairline border, 16px radius, Level 1 shadow. Generous 24px inner padding.
+- **Solar Analytics Card:** Background tinted with Light Green (`#F0FDF4`), with a thin vertical structural accent bar (4px) in Vibrant Green (`#22A447`) along the left perimeter.
+- **Case Study / Infrastructure Preview:** Rich full-bleed photographic cards of commercial installations capped with an inner gradient overlay that transitions seamlessly into Dark Slate (`#17251C`) for text legibility.
+
+### Form Inputs & Selectors
+- **Input Fields:** 48px height, 8px radius, white background, `1px solid #E2E8F0`. Label positioned above in Slate Subdued (`#64748B`). Active/Focus states transition border to Vibrant Green (`#22A447`) with a 3px soft green glow ring (`rgba(34, 164, 71, 0.15)`).
+- **Radio Buttons & Checkboxes:** Custom 20px controls with a rounded base. When checked, filled with Vibrant Green (`#22A447`) bearing a white geometric check or inner disc.
+
+### Chips & Badges
+- **Status Indicators:** Pill-shaped, 6px vertical padding, 12px horizontal padding.
+  - *Tier 1 (Commissioned/Active):* `#F0FDF4` background, `#14532D` text, 1px border `#22A447` at 30% opacity.
+  - *Tier 2 (Subsidy Eligible / Premium):* `#FEFCE8` background, `#854D0E` text, subtle `#FACC15` highlight.
+
+### Specialized Domain Components
+- **Solar Generation & Savings Bar:** Clean linear progress component visualizing grid offset percentage. Track background `#E2E8F0`, fill dynamic gradient running from `#22A447` to `#FACC15`.
+- **Rooftop Calculator Module:** Multi-step stepped input container using clean card tiers, tabular numerical dials, and instantaneous real-time cost-benefit counters.
